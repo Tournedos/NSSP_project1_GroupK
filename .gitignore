@@ -1,0 +1,9 @@
+# Build
+
+/__pycache__/
+
+# Données locales
+/subject101410/
+subject101410/
+
+.DS_store
